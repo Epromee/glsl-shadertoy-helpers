@@ -1,2 +1,2 @@
-# glsl_shadertoy_helpers
-to be added yet
+# shadertoy helpers
+a few functions to ctrl+c&ctrl_v into my shadertoy stuff
